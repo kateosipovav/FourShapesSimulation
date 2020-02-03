@@ -13,6 +13,7 @@ public class Plant {
 	// *
 	public static double SPREAD = 18;
 	public static double HEIGHT = 22;
+	
 
 	public static double VOLUME = 2 * Math.PI * Math.pow(SPREAD / 2, 2) * HEIGHT / 3;
 	// let's assume the plant is a half of the ellipsoid
